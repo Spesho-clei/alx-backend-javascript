@@ -1,0 +1,20 @@
+{
+  "name": "calculate-example",
+  "version": "1.0.0",
+  "description": "Example project for testing calculateNumber function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "calculate",
+    "testing",
+    "mocha",
+    "assert"
+  ],
+  "author": "Nancy Jepkoech",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
